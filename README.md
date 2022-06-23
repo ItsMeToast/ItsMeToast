@@ -1,6 +1,2 @@
-👋 Hi, my name is Kieron
-
-<!---
-ItsMeToast/ItsMeToast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 **Hi, my name is Kieron**
+I am currently working on the PoolballGMs Web Development Project :)
